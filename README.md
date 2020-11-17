@@ -1,7 +1,8 @@
 # Programming for Data Analysis 52465 - Assignment
 
 ### Assignment Description
-The assignment concerns the `numpy.random` package in Python. 
+The assignment concerns the `numpy.random` package in Python. Full details available [here](https://github.com/SharonNicG/52465-Assignment/blob/main/ProgDA_Assignment.pdf).
+
 It requires the creation of a Jupyter notebook explaining the use of the package.
 This includes detailed explanations of at least five of the distributions provided for in the package.
 
