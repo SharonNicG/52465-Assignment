@@ -38,3 +38,8 @@ To stop the instance on the local server and shutdown the jupyter kernel, in the
 
 The above steps should allow for the jupyter notebook to display automatically (assuming the prerequisites have been met). 
 Jupyter Notebooks can also be rendered by pasting the URL presented in the terminal/command line on the site https://nbviewer.jupyter.org/
+
+## References
+
+1. [Jupyter - Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+2. [Jupyter - nbviewer](https://nbviewer.jupyter.org/)
