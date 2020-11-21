@@ -39,6 +39,33 @@ To stop the instance on the local server and shutdown the jupyter kernel, in the
 The above steps should allow for the jupyter notebook to display automatically (assuming the prerequisites have been met). 
 Jupyter Notebooks can also be rendered by pasting the URL presented in the terminal/command line on the site https://nbviewer.jupyter.org/
 
+### Contents of Jupyter Notebook
+Introduction
+NumPy
+ - Why use NumPy over Python Lists?
+ - Installing NumPy
+numpy.random
+ - Random Number Generators
+ - Simple Random Data
+  - rng.integers
+  - rng.random
+  - rng.choice
+  - rng.bytes
+ - Permutations
+  - Shuffle
+  - Permutation
+ - Distributions
+  - Normal Distribution
+  - Binomial Distribution
+  - Poisson Distribution
+  - Uniform Distribution
+  - Triangular Distribution
+ - Seeds
+  - random.seed
+  - Seeds and Permutations
+  - Seeds and Distributions
+References
+
 ## References
 
 1. [Jupyter - Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
