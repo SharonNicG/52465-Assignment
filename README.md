@@ -64,7 +64,9 @@ numpy.random
   - random.seed
   - Seeds and Permutations
   - Seeds and Distributions
+Conclusion
 References
+Other Sources
 
 ## References
 
